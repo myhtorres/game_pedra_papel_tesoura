@@ -69,6 +69,9 @@ Resultado: Jogador 1 venceu! Parabéns!
 --- Fim de Jogo ---
 
 ✨ Aprendizados
+
 Importância da validação de entrada de dados.
+
 Como prevenir erros comuns ao lidar com strings.
+
 Estruturação da lógica do jogo de forma clara e legível.
