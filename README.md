@@ -51,9 +51,11 @@ Bem-vindos! Cada jogador deve escolher uma das opções.
 Opções válidas: ('pedra', 'papel', 'tesoura')
 -------------------------
 Jogador 1, digite sua jogada: pedra
+
 Jogador 2, digite sua jogada: tesoura
 -------------------------
 Jogador 1 escolheu: pedra
+
 Jogador 2 escolheu: tesoura
 -------------------------
 Resultado: Jogador 1 venceu! Parabéns!
