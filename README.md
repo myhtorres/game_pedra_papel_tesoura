@@ -33,8 +33,9 @@ Criar um jogo simples de **Pedra, Papel e Tesoura** para dois jogadores, utiliza
 ## Como Executar
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/estudo-caso-2-pedra-papel-tesoura.git
-   cd estudo-caso-2-pedra-papel-tesoura
+   git clone https://github.com/myhtorres/game_pedra_papel_tesoura.git
+   cd game_pedra_papel_tesoura
+
 
 2. Execute o código no terminal:
    ```bash
@@ -53,10 +54,12 @@ Opções válidas: ('pedra', 'papel', 'tesoura')
 Jogador 1, digite sua jogada: pedra
 
 Jogador 2, digite sua jogada: tesoura
+
 -------------------------
 Jogador 1 escolheu: pedra
 
 Jogador 2 escolheu: tesoura
+
 -------------------------
 Resultado: Jogador 1 venceu! Parabéns!
 
