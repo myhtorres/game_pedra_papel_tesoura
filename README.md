@@ -48,8 +48,11 @@ Exemplo de Execução
 ------------------------------------------------------
 --- Jogo Pedra, Papel e Tesoura (2 Jogadores) ---
 ------------------------------------------------------
-Bem-vindos! Cada jogador deve escolher uma das opções.
+Bem-vindos! 
+Cada jogador deve escolher uma das opções.
+
 Opções válidas: ('pedra', 'papel', 'tesoura')
+
 -------------------------
 Jogador 1, digite sua jogada: pedra
 
