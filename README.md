@@ -1,15 +1,15 @@
-# 🎮 Estudo de Caso 2 - Jogo Pedra, Papel e Tesoura (2 Jogadores)
+# Estudo de Caso - Jogo Pedra, Papel e Tesoura (2 Jogadores)
 
 Este projeto foi desenvolvido como parte do estudo de **Lógica de Programação em Python**, com foco em **entrada e saída de dados, manipulação de strings e estruturas condicionais**.
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 Criar um jogo simples de **Pedra, Papel e Tesoura** para dois jogadores, utilizando conceitos básicos da linguagem **Python**.
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Exibe instruções do jogo para os jogadores.
 - Valida as jogadas, aceitando apenas `pedra`, `papel` ou `tesoura`.
 - Trata diferenças de maiúsculas/minúsculas e espaços extras.
@@ -20,7 +20,7 @@ Criar um jogo simples de **Pedra, Papel e Tesoura** para dois jogadores, utiliza
 
 ---
 
-## 🧩 Tecnologias e Conceitos
+## Tecnologias e Conceitos
 - **Python 3**
 - Funções: `print()`, `input()`
 - Estruturas de dados: **tupla**
@@ -30,7 +30,7 @@ Criar um jogo simples de **Pedra, Papel e Tesoura** para dois jogadores, utiliza
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 1. Baixe ou clone este repositório:
    ```bash
    git clone https://github.com/SEU-USUARIO/estudo-caso-2-pedra-papel-tesoura.git
@@ -42,7 +42,7 @@ Criar um jogo simples de **Pedra, Papel e Tesoura** para dois jogadores, utiliza
 
 3. Cada jogador deverá digitar sua jogada.
 
-📚 Exemplo de Execução
+Exemplo de Execução
 
 ------------------------------------------------------
 --- Jogo Pedra, Papel e Tesoura (2 Jogadores) ---
